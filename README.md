@@ -20,3 +20,5 @@ The above table shows us that failed campaigns in this subset have an average go
 ## Goals and Pledged Amounts
 To provide insight on a future musical project in Great Britain, we have created the below analysis on those trends.  Using £4,000 as an estimated cost of production, I would suggest trying to reduce that budget in order to guarantee crowdfunding success.  £4,000 would be considered an outlier based on the amounts pledged.
 ![boxandwhisker](https://github.com/alysonrussell/kickstarter-analysis/blob/master/Chart_BoxandWhisker.png)
+## Conclusions
+Crowdfunding seems to be an effective way to raise funds for plays, as we see in our data.  Timing the launch of the campaign in spring will be essential to the success, as well as keeping our campaign goal attainable.
