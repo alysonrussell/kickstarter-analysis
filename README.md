@@ -23,3 +23,18 @@ To provide insight on a future musical project in Great Britain, we have created
 ## Conclusions
 Crowdfunding seems to be an effective way to raise funds for plays, as we see in our data.  Timing the launch of the campaign in spring will be essential to the success, as well as keeping our campaign goal attainable.
 ### Challenge
+Setting the correct goal is incredibly valuable to the outcome of a crowdfunding campaign.  In this subset of data focused on campaigns funding plays, we see a direct correlation between goal values and the percentage of campaigns that are successful.  As the goal increases on a campaign for a play, the chance of that campaign succeeding decreases.  We see this as the rising green line and falling blue line on the chart below.  This trend continues until the $25,000 to $29,999 goal range at which point our data points become too limited to draw accurate conclusions.  Play campaigns with goals higher than $25,000 are not very common, so the chart after that point becomes scattered and unreliable.  I would suggest editing the horizontal axis on this chart, so that the visual ends at $25,000.
+
+![outcomesbasedongoalFINAL](https://github.com/alysonrussell/kickstarter-analysis/blob/master/Chart_Outcomes%20Based%20on%20Goal.png)
+
+When we look at launch date as a variable in crowdfunding campaigns below, we can make a few conclusions about trends. Overall, the Theater category sees a high rate of successfully funded campaigns. However, we can conclude that early summer seems to be the best time of year to launch a theater campaign, with a particularly high rate of success for campaigns launched in May. Failed and cancelled campaigns do not seem to have any trends that coordinate with a certain month or season, but there are the least number of successful campaigns launched in December.  From this information, I would suggest to our client that she aim to launch her campaign in late spring and avoid launching a theater campaign in the winter.
+
+![outcomesbasedondateFINAL](https://github.com/alysonrussell/kickstarter-analysis/blob/master/ChgChart_Outcomes%20Date.png)
+
+Louise saw quick success with her crowdfunding campaign, and this seems to be common in her subcategory.  Almost 90% of successful play campaigns are under forty days in length.
+
+![pieforlengthofcampaign](https://github.com/alysonrussell/kickstarter-analysis/blob/master/Chart_LengthofCampaign.png)
+
+It would also be interesting to create a 100% stacked bar graph for Louise showing the above length ranges and within each range, what the likelihood is of being successful.
+
+Overall, there are plenty of interesting conclusions that could be drawn from our dataset.  The information could be sliced and diced in countless ways to visualize the information available to us from KickStarter.  There may however be some factors contributing to outcomes that we do not have a way of knowing, and this is important to keep in mind when providing insights to a client.  Although we can see if the crowdfunding campaign was successful, we have no way of knowing if the goal ended up being sufficient to get the project up and running.  We also don't have a way of seeing if the campaign owners were already established and known in their field, or if they were marketing their campaign in order to generate more interest.
